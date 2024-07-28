@@ -1,17 +1,20 @@
-## Running React on Replit
+# React Learning. (July 28, 2024)
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+## Overview.
+I have started learning **React** earlier than I planned because I ended up participating in the UNDP hackathon and they recommend using **React** or **Angular** or **Vue** for frontend. This is my first react project and I have created a team management system where the manager can divide their employees into various groups and it was done on repl. I have used local storage to keep tract of the team distribution.
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+## Tech Stack.
+- React.
+- Vite.
+- CSS.
+- Bootstrap.
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+## Learning.
+- After doing this project I got a basic idea of react components.
+- I also got some idea of the `usestate` and `useEffect` hooks.
+- I also learned about routing in react.
+- Now I have a general idea of how react works.
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
-
-### Typescript
-
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+## Resources.
+- [Official React website](https://react.dev/)
+- [React JavaScript Framework for Beginners – Project-Based Course](https://www.youtube.com/watch?v=u6gSSpfsoOQ&t=6613s&ab_channel=freeCodeCamp.org): I have build the above application by following along this turorial on freeCodeCamp. Here three well experienced developers teach you react through a project based approach where each of them helps you build an application. 
